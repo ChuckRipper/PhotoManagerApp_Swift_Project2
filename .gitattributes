@@ -1,0 +1,6 @@
+# Zestawienie plików jako binarnych
+*.jpg binary
+*.png binary
+
+# Automatyczne zmiany końcówek linii na LF
+*.sh eol=lf

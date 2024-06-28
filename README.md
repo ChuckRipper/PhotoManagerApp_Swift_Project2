@@ -1,4 +1,4 @@
-# PhotoManagerApp_Swift_Project
+# PhotoManagerApp_Swift_Project2
 Swift App
 
 ## Autorzy:
